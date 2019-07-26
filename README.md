@@ -1,6 +1,7 @@
-# wae
-wait an event
+# [wae](https://github.com/WAE/WAE)
 
-https://raw.githubusercontent.com/WAE/WAE/master/wae.bash
+Wait An Event
+
+[https://raw.githubusercontent.com/WAE/WAE/master/wae.bash](https://raw.githubusercontent.com/WAE/WAE/master/wae.bash)
 
 <!-- EOM -->
