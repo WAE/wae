@@ -1,10 +1,10 @@
-#!/bin/bash -e
-# Copyright 2017-2018 by SDRausty. All rights reserved.  🌎 🌍 🌏 🌐 🗺
-# Hosting https://sdrausty.github.io/TermuxArch courtesy https://pages.github.com
-# https://sdrausty.github.io/TermuxArch/CONTRIBUTORS Thank you for your help.  
-# https://sdrausty.github.io/TermuxArch/README has information about this project. 
+#!/bin/env bash 
+# Copyright 2017-2019 by SDRausty. All rights reserved.  🌎 🌍 🌏 🌐 🗺
+# Hosting https://WAE.github.io/WAE courtesy https://pages.github.com
 # https://www.bing.com/search?q=grey+music+cognition
 ################################################################################
+set -e
+
 # . printoutstatements.sh
 printf "\e[?25l\e[0m\n"
 
