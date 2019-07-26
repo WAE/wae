@@ -1,4 +1,4 @@
-# [wae](https://github.com/WAE/WAE)
+# [WAE](https://github.com/WAE/WAE)
 
 Wait An Event
 
