@@ -7,6 +7,8 @@
 3. Install [`wae.bash`](https://raw.githubusercontent.com/WAE/WAE/master/wae.bash); example usage: <pre>bash wae.bash [alphaV.webm](https://github.com/sdrausty/sdrausty.github.io/blob/master/audio/alphaV.webm?raw=true)</pre>
 4. Enjoy!
 
-[https://www.bing.com/search?q=grey+music+cognition](https://www.bing.com/search?q=grey+music+cognition)
++ [https://www.bing.com/search?q=grey+music+cognition](https://www.bing.com/search?q=grey+music+cognition)
++ [https://www.duckduckgo.com/?q=grey+music+cognition](https://www.duckduckgo.com/?q=grey+music+cognition)
++ [https://www.google.com/search?q=grey+music+cognition](https://www.google.com/search?q=grey+music+cognition)
 
 <!-- EOM -->
