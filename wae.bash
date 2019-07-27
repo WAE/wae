@@ -136,7 +136,7 @@ cl0 ()
 }
 
 play () {
-while true;do printplay "$@";play-audio "$@" 1>/dev/null;declare -g snooze="${RANDOM::2}";printsnooze "$@";sleep $snooze;done
+while true;do printplay "$@";play-audio "$@" 1>/dev/null;declare -g snooze="${RANDOM::3}";printsnooze "$@";sleep $snooze;done
 }
 
 printplay () { #cl0 a1 a2 a3 nl ltime offset print  
