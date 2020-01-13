@@ -7,7 +7,7 @@
 3. Install [` wae.bash `](https://raw.githubusercontent.com/WAE/wae/master/wae.bash); example usage: [` bash wae.bash alphaV.webm `](https://github.com/sdrausty/sdrausty.github.io/blob/master/audio/alphaV.webm?raw=true)
 4. Enjoy!
 
-#### Learning more about grey music cognition while listening with these search references:
+#### To learn more about grey music cognition while listening, study these search references:
 
 + [https://www.bing.com/search?q=grey+music+cognition](https://www.bing.com/search?q=grey+music+cognition)
   + [https://www.bing.com/search?q=grey+music+cognition+site:.edu](https://www.bing.com/search?q=grey+music+cognition+site:.edu)
