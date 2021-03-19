@@ -3,7 +3,7 @@
 [Wait An Event](https://wae.github.io/wae) 
 
 1. Install [Termux](https://github.com/search?q=Termux) in [Amazon](https://github.com/search?q=Amazon), [Android](https://github.com/search?q=Android), [Chromebook](https://github.com/search?q=Chromebook), [Linux](https://github.com/search?q=Linux) and [Windows](https://github.com/search?q=Windows).
-2. Install [` play-audio `](https://github.com/termux/play-audio) in Termux.
+2. Install [` play-audio `](https://github.com/termux/play-audio) in Termux: ` pkg i play-audio `
 3. Install [` wae.bash `](https://raw.githubusercontent.com/WAE/wae/master/wae.bash); example usage: [` bash wae.bash alphaV.webm `](https://github.com/sdrausty/sdrausty.github.io/blob/master/audio/alphaV.webm?raw=true)
 4. Enjoy!
 
