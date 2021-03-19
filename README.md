@@ -21,5 +21,5 @@
   +  [https://www.google.com/search?q=grey+music+cognition+site:.edu](https://www.google.com/search?q=grey+music+cognition+site:.edu)
   +  [https://www.google.com/search?q=grey+music+cognition+site:.gov](https://www.google.com/search?q=grey+music+cognition+site:.gov)
 
-> The neuroscience of music is the scientific study of mechanisms involved in the cognitive processes underlying music. 
+> The neuroscience of music is the scientific study of mechanisms involved in the cognitive processes involving music. 
 <!-- README.md EOF -->
