@@ -1,6 +1,6 @@
 # [wae](https://github.com/WAE/wae)
 
-[Wait An Event](https://wae.github.io/wae) 
+[Wait an Event](https://wae.github.io/wae) 
 
 1. Install [Termux](https://github.com/search?q=Termux) in [Amazon](https://github.com/search?q=Amazon), [Android](https://github.com/search?q=Android), [Chromebook](https://github.com/search?q=Chromebook), [Linux](https://github.com/search?q=Linux) and [Windows](https://github.com/search?q=Windows).
 2. Install [` play-audio `](https://github.com/termux/play-audio) in Termux: ` pkg i play-audio `
