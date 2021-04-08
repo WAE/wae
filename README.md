@@ -21,5 +21,5 @@
   +  [https://www.google.com/search?q=grey+music+cognition+site:.edu](https://www.google.com/search?q=grey+music+cognition+site:.edu)
   +  [https://www.google.com/search?q=grey+music+cognition+site:.gov](https://www.google.com/search?q=grey+music+cognition+site:.gov)
 
-Is it a scientific study of music?
+Is grey music cognition a scientific study of music?
 <!-- README.md EOF -->
