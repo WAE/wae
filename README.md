@@ -21,5 +21,5 @@
   +  [https://www.google.com/search?q=grey+music+cognition+site:.edu](https://www.google.com/search?q=grey+music+cognition+site:.edu)
   +  [https://www.google.com/search?q=grey+music+cognition+site:.gov](https://www.google.com/search?q=grey+music+cognition+site:.gov)
 
-> The scientific study of music
+> A Scientific Study of Music
 <!-- README.md EOF -->
