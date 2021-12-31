@@ -25,5 +25,5 @@
   +  [https://www.google.com/search?q=grey+music+cognition+site:.edu](https://www.google.com/search?q=grey+music+cognition+site:.edu)
   +  [https://www.google.com/search?q=grey+music+cognition+site:.gov](https://www.google.com/search?q=grey+music+cognition+site:.gov)
 
-Is `grey music cognition` a scientific study of music?
+Is `grey music cognition` a scientific study of music?  And if ig is, how does it improve the state of human kind and our kind?
 <!-- README.md EOF -->
