@@ -17,9 +17,9 @@
   + [https://www.duckduckgo.com/?q=grey+music+cognition+site:.edu](https://www.duckduckgo.com/?q=grey+music+cognition+site:.edu)
   + [https://www.duckduckgo.com/?q=grey+music+cognition+site:.gov](https://www.duckduckgo.com/?q=grey+music+cognition+site:.gov)
 
-+ [https://www.ecosia.org/search?q=grey+music+cognition](https://www.bing.com/search?q=grey+music+cognition)
-  + [https://www.ecosia.org/search?q=grey+music+cognition+site:.edu](https://www.bing.com/search?q=grey+music+cognition+site:.edu)
-  + [https://www.ecosia.org/search?q=grey+music+cognition+site:.gov](https://www.bing.com/search?q=grey+music+cognition+site:.gov)
++ [https://www.ecosia.org/search?q=grey+music+cognition](https://www.ecosia.org/search?q=grey+music+cognition)
+  + [https://www.ecosia.org/search?q=grey+music+cognition+site:.edu](https://www.ecosia.org/search?q=grey+music+cognition+site:.edu)
+  + [https://www.ecosia.org/search?q=grey+music+cognition+site:.gov](https://www.ecosia.org/search?q=grey+music+cognition+site:.gov)
 
 + [https://www.google.com/search?q=grey+music+cognition](https://www.google.com/search?q=grey+music+cognition)
   +  [https://www.google.com/search?q=grey+music+cognition+site:.edu](https://www.google.com/search?q=grey+music+cognition+site:.edu)
