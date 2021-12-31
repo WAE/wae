@@ -17,6 +17,8 @@
   + [https://www.duckduckgo.com/?q=grey+music+cognition+site:.edu](https://www.duckduckgo.com/?q=grey+music+cognition+site:.edu)
   + [https://www.duckduckgo.com/?q=grey+music+cognition+site:.gov](https://www.duckduckgo.com/?q=grey+music+cognition+site:.gov)
 
+Why does Ecosia plant trees?
+
 + [https://www.ecosia.org/search?q=grey+music+cognition](https://www.ecosia.org/search?q=grey+music+cognition)
   + [https://www.ecosia.org/search?q=grey+music+cognition+site:.edu](https://www.ecosia.org/search?q=grey+music+cognition+site:.edu)
   + [https://www.ecosia.org/search?q=grey+music+cognition+site:.gov](https://www.ecosia.org/search?q=grey+music+cognition+site:.gov)
