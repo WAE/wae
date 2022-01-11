@@ -91,7 +91,7 @@ cl0 ()
 	for ((i=0;i<$num;i++)) ; do
 		numb+="\b"
 	done
-	# Number of loop itterations 
+	# Number of loop iterations 
 	declare numi=$(echo $a1 |wc -w)*$(echo $a2 |wc -w)*$(echo $a3 |wc -w)  
 	while true ;do
 		for a1 in $a1 ; do
