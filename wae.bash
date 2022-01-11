@@ -1,5 +1,5 @@
 #!/bin/env bash 
-# Copyright 2017-2019 by SDRausty. All rights reserved.  🌎 🌍 🌏 🌐 🗺
+# Copyright 2017-2022 by SDRausty. All rights reserved.  🌎 🌍 🌏 🌐 🗺
 # Hosting https://WAE.github.io/WAE courtesy https://pages.github.com
 # https://www.bing.com/search?q=grey+music+cognition
 ################################################################################
